@@ -54,8 +54,6 @@ The results reveal the potential of FCT in analyzing rheological properties of i
    - Naive Bayes (NB)
    - Linear Discriminant Analysis (LDA)
    - Multilayer Perceptron (MLP)
-   - «خلهسفهز
-
 ---
 
 
